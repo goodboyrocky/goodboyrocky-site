@@ -1,2 +1,8 @@
-# goodboyrocky-site
-Official website for the Good Boy, Rocky! brand. Hosting A2P-compliant documentation, privacy policies, and terms of service for our AI-assisted support messaging and community engagement across YouTube, Facebook, Instagram, and TikTok. Built for transparency and reliability.
+# Good Boy, Rocky! - Official Support Site
+This repository hosts the public documentation, Privacy Policy, and Terms of Service for the **Good Boy, Rocky!** brand across social media platforms.
+
+## A2P Compliance
+These pages provide legally required disclosures for our SMS and WhatsApp AI support services powered by Twilio/OpenClaw.
+
+- [Privacy Policy](https://goodboyrocky.com/privacy.html)
+- [Terms & Conditions](https://goodboyrocky.com/terms.html)
